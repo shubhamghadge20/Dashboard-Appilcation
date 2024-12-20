@@ -20,7 +20,7 @@ git clone https://github.com/shubhamghadge20/Dashboard-Appilcation.git
 ```
 ### 2. Navigate to the Project Directory
 ```bash
-cd your-repository-name
+cd  Dashboard-Appilcation
 ```
 ### 3. Install Dependencies
 Run the following command to install the required dependencies:
