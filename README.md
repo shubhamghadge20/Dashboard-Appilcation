@@ -16,7 +16,7 @@ This is a fully functional React.js-based dashboard application that includes va
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/shubhamghadge20/Dashboard-Appilcation.git
 ```
 ### 2. Navigate to the Project Directory
 ```bash
