@@ -34,7 +34,7 @@ npm install react react-dom react-router-dom axios bootstrap tailwindcss
 ### 4. Start the Development Server
 After the installation is complete, run the following command to start the development server:
 ```bash
-npm run start
+npm start
 ```
 This will open the application in your default browser at http://localhost:3000/.
 
